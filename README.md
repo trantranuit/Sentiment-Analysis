@@ -116,7 +116,7 @@ Performance metrics include:
 2. Install required packages:
 ```python
    pip install nltk pandas matplotlib seaborn wordcloud scikit-learn gensim numpy spacy
-4. Download NLTK resources:
+3. Download NLTK resources:
 ```python
 import nltk
 nltk.download('stopwords')
