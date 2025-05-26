@@ -114,10 +114,12 @@ Performance metrics include:
 ## Setup and Installation
 1. Clone this repository
 2. Install required packages:
-```python
+   ```
    pip install nltk pandas matplotlib seaborn wordcloud scikit-learn gensim numpy spacy
+   ```
 3. Download NLTK resources:
-```python
-import nltk
-nltk.download('stopwords')
-nltk.download('punkt')
+   ```python
+   import nltk
+   nltk.download('stopwords')
+   nltk.download('punkt')
+   ```
